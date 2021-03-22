@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Library Used
   
-  Angular 11.1.2
-  Bootstrap 4
+  Angular 11.1.2,
+  Bootstrap 4,
   Fontawsome
 
