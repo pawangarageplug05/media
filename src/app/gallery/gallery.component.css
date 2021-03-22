@@ -1,0 +1,22 @@
+img{
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0 1rem 3rem rgba(83, 88, 93, 0.15) !important;
+
+}
+.mb{
+    margin-bottom: 20% !important;
+}
+p{font-size: .9rem;
+    color: gray;
+    font-weight: 400;}
+
+    .md-font{
+        font-size: 2.4rem;
+        color: darkslategray;
+        font-family: fangsong;
+    }
+
+img:hover{
+    padding:3%;
+}

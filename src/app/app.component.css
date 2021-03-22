@@ -1,0 +1,42 @@
+.width-class{
+    width: 100%;
+}
+.logo{
+    font-size: 2rem;
+    font-family: cursive;
+}
+.color{
+    color:#7b3fd0
+}
+
+.primary-header{
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #7b3fd0;
+}
+.secondary-header{
+    font-size: 2rem;
+    margin-top: 4%;
+    color: lightslategray;
+font-weight: 500;
+width: 50%;
+
+}
+i{
+    font-size: 2rem;
+    color: #7b3fd0;
+    margin: 5px;
+}
+footer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+@media only screen and (max-width: 600px) {
+    footer{
+        position: relative;
+      
+       width: 100%;
+    }
+  }

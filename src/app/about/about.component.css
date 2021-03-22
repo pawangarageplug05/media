@@ -1,0 +1,48 @@
+.card-class{
+    box-shadow: 0 1rem 3rem rgba(83, 88, 93, 0.15) !important;
+    margin: .2rem;
+    border: none;
+    height: 380px;
+}
+.card-class1{
+    box-shadow: 0 1rem 3rem rgba(83, 88, 93, 0.15) !important;
+    margin: .2rem;
+    border: none;
+}
+img{
+    width: 35%;
+    border-radius: 100px;
+}
+.btn-cl{
+    background: #7b3fd0;
+    border: none;
+}
+.p{
+    font-size: 1.5rem;
+    font-weight: 300;
+    background: #7b3fd021;
+    border-radius: 24px;
+}
+span{
+    font-size: .9rem;
+}
+.md-font{
+    font-size: 2.4rem;
+    color: darkslategray;
+    font-family: fangsong;
+}
+i{
+    font-size: 2rem;
+    color: #7b3fd0;
+    margin: 5px;
+}
+.margin-class{
+    margin-bottom: 20% !important;
+}
+@media only screen and (max-width: 600px) {
+    .card-class1{
+        box-shadow: 0 1rem 3rem rgba(83, 88, 93, 0.15) !important;
+        margin: 0rem;
+        border: none;
+    }
+}

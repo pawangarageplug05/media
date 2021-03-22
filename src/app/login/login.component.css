@@ -1,0 +1,39 @@
+.card-class{
+    width: 50%;
+    margin-left: 25%;
+    padding:5% 10% 5% 10%;
+    box-shadow: 0 1rem 3rem rgba(83, 88, 93, 0.15) !important;
+    border: 0;
+}
+input{
+    margin-top: 10%;
+    background: #f6f6f6;
+}
+p{
+    font-size: 2rem;
+    color: #7b3fd0;
+    text-align: center;
+}
+.card-footer{
+    background: white;
+}
+.btn-cl{
+    background: #7b3fd0;
+    border: none;
+}
+.error-class{
+    color: red;
+    font-size: 14px;
+    margin:3px;
+    text-align: left;
+}
+@media only screen and (max-width: 600px) {
+    .card-class{
+        width: 100%;
+        margin: 1%;
+        padding:5% 10% 5% 10%;
+        box-shadow: 0 1rem 3rem rgba(83, 88, 93, 0.15) !important;
+        border: 0;
+        margin-bottom: 50%;
+    }
+}
